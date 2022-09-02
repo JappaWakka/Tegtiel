@@ -27739,3 +27739,942 @@ Content/Pokemon/Sprites/Gastrodon_w.png
 Content/Pokemon/Sprites/Shellos_e.png
 Content/Pokemon/Sprites/Shellos_w.png
 screenshots/2022-09-01_22.04.07.png
+Content/Data/maps/gates/league.dat
+Content/Data/Scripts/league/leaguegate.dat
+Content/Data/Scripts/league/leaguegatekeeper.dat
+Content/Models/boat/Ship.xnb
+Content/Models/boat/textures/boat_0.xnb
+Content/Models/building/P3DBuilding.xnb
+Content/Models/building/textures/P3DBuilding_0.xnb
+Content/Models/truck2/140l155_0.xnb
+Content/SkyDomeResource/AuroraBoralis.png
+Content/SkyDomeResource/Clouds.png
+Content/SkyDomeResource/Clouds1.png
+Content/SkyDomeResource/CloudsWeather.png
+Content/SkyDomeResource/SunRise.png
+Content/SkyDomeResource/SunSet.png
+Content/SkyDomeResource/UnderwaterGround.png
+Content/Sounds/badge_acquired.wav
+Content/Sounds/Battle/ballshake.wav
+Content/Sounds/Battle/Damage/normaldamage.wav
+Content/Sounds/Battle/Damage/not_effective.wav
+Content/Sounds/Battle/Damage/super_effective.wav
+Content/Sounds/Battle/Effects/effect_ember.wav
+Content/Sounds/Battle/Effects/effect_fly.wav
+Content/Sounds/Battle/Effects/effect_ice1.wav
+Content/Sounds/Battle/Effects/effect_poison.wav
+Content/Sounds/Battle/Effects/effect_pound.wav
+Content/Sounds/Battle/Effects/effect_thunderbolt.wav
+Content/Sounds/Battle/Effects/effect_thundershock2.wav
+Content/Sounds/Battle/pokeball_land.wav
+Content/Sounds/Battle/throw.wav
+Content/Sounds/buy2.wav
+Content/Sounds/item_found.wav
+Content/Sounds/PC/pc_logon.wav
+Content/Sounds/PC/pc_off.wav
+Content/Sounds/PC/pc_turnon.wav
+Content/Sounds/PokeballOpen.wav
+Content/Sounds/pokemon_heal.wav
+Content/Sounds/repel_use.wav
+Content/Sounds/single_heal.wav
+Content/Sounds/TossPokeball.wav
+Content/Textures/Battle/Cloud.png
+Content/Textures/Battle/Fighting/forcepalmhand.png
+Content/Textures/Battle/Fighting/forcepalmhandfaded.png
+Content/Textures/Battle/Fighting/forcepalmhandfading.png
+Content/Textures/Battle/Fighting/forcepalmimpact.png
+Content/Textures/Battle/Fighting/forcepalmparticle.png
+Content/Textures/Battle/Fire/EmberBall.png
+Content/Textures/Battle/Fire/Fire.png
+Content/Textures/Battle/Fire/Hand.png
+Content/Textures/Battle/Other/RedCircle.png
+Content/Textures/Battle/Other/Star.png
+Content/Textures/Battle/Other/YellowCloud.png
+Content/Textures/Battle/Physical/Particle.png
+Content/Textures/Battle/Physical/Tackle.png
+Content/Textures/Battle/Status.png
+Content/Textures/Battle/Water/bubble.png
+Content/Textures/Battle/Water/Water.png
+Content/Textures/TVs/PSwebCode.png
+Content/Textures/TVs/webcode.png
+ContentPacks/KolbenGB Pack 0.58.zip
+ContentPacks/KolbenGB Pack/exceptions.dat
+ContentPacks/KolbenGB Pack/GUI/Badges.png
+ContentPacks/KolbenGB Pack/GUI/Menus/MainMenu.png
+ContentPacks/KolbenGB Pack/GUI/Menus/Menu.png
+ContentPacks/KolbenGB Pack/GUI/PokemonMenu/Gen1.png
+ContentPacks/KolbenGB Pack/GUI/PokemonMenu/Gen2.png
+ContentPacks/KolbenGB Pack/GUI/PokemonMenu/Unown.png
+ContentPacks/KolbenGB Pack/info.dat
+ContentPacks/KolbenGB Pack/Items/Fossils.png
+ContentPacks/KolbenGB Pack/Items/ItemSheet.png
+ContentPacks/KolbenGB Pack/Models/boat2/Boat.fbx
+ContentPacks/KolbenGB Pack/Models/boat2/Boat.png
+ContentPacks/KolbenGB Pack/Models/Snorlax/Normal.fbx
+ContentPacks/KolbenGB Pack/Models/Snorlax/Shiny.fbx
+ContentPacks/KolbenGB Pack/Models/Snorlax/Snorlax_Normal.png
+ContentPacks/KolbenGB Pack/Models/Snorlax/Snorlax_Shiny.png
+ContentPacks/KolbenGB Pack/Overworld Sprites Credit.txt
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/1.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/10.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/102.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/103.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/11.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/112.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/113.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/12.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/13.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/130.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/131.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/138.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/139.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/14.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/140.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/141.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/142.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/143.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/147.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/148.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/149.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/15.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/150.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/152.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/153.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/154.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/155.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/156.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/157.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/158.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/159.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/16.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/160.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/161.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/162.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/163.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/164.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/17.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/172.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/18.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/19.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/2.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/20.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/201-a.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/201-b.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/201-c.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/201-d.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/201-e.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/201-f.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/201-g.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/201-h.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/201-i.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/201-j.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/201-k.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/201.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/21.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/22.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/222.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/23.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/24.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/243.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/244.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/245.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/249.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/25.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/250.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/251.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/26.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/27.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/28.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/29.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/3.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/30.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/31.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/319.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/32.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/33.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/34.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/35.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/36.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/37.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/38.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/39.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/4.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/40.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/41.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/42.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/43.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/44.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/45.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/46.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/47.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/48.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/49.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/5.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/50.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/51.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/52.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/53.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/54.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/55.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/56.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/57.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/58.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/59.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/6.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/60.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/61.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/62.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/63.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/64.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/65.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/66.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/67.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/68.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/69.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/7.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/70.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/71.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/72.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/73.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/74.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/75.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/76.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/77.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/78.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/79.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/8.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/80.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/81.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/82.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/83.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/84.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/85.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/86.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/87.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/88.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/89.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/9.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/90.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/91.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/92.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/93.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Normal/94.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/1.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/10.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/102.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/103.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/11.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/112.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/113.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/12.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/13.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/130.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/131.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/138.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/139.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/14.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/140.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/141.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/142.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/143.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/147.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/148.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/149.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/15.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/150.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/152.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/153.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/154.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/155.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/156.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/157.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/158.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/159.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/16.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/160.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/161.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/162.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/163.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/164.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/17.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/172.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/18.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/19.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/2.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/20.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/201-a.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/201-b.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/201-c.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/201-d.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/201-e.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/201-f.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/201-g.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/201-h.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/201-i.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/201-j.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/201-k.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/201-n.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/201.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/21.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/22.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/222.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/23.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/24.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/243.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/244.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/245.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/249.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/25.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/250.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/251.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/26.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/27.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/28.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/29.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/3.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/30.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/31.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/319.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/32.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/33.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/34.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/35.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/36.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/37.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/38.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/39.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/4.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/40.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/41.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/42.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/43.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/44.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/45.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/46.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/47.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/48.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/49.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/5.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/50.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/51.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/52.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/53.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/54.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/55.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/56.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/57.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/58.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/59.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/6.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/60.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/61.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/62.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/63.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/64.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/65.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/66.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/67.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/68.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/69.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/7.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/70.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/71.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/72.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/73.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/74.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/75.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/76.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/77.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/78.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/79.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/8.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/80.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/81.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/82.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/83.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/84.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/85.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/86.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/87.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/88.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/89.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/9.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/90.png
+ContentPacks/KolbenGB Pack/Pokemon/Overworld/Shiny/91.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Cyndaquil.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_b.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_c.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_d.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_e.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_f.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_g.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_h.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_i.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_j.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_k.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_l.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_m.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_n.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_o.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_p.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_q.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_r.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_s.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_t.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_u.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_v.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_w.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_x.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_y.png
+ContentPacks/KolbenGB Pack/Pokemon/Sprites/Unown_z.png
+ContentPacks/KolbenGB Pack/SkyDomeResource/Stars.png
+ContentPacks/KolbenGB Pack/Songs/Alph.ogg
+ContentPacks/KolbenGB Pack/Songs/Ancient_Ruins.ogg
+ContentPacks/KolbenGB Pack/Songs/Azalea.ogg
+ContentPacks/KolbenGB Pack/Songs/BarkTown.ogg
+ContentPacks/KolbenGB Pack/Songs/BattleFactory.ogg
+ContentPacks/KolbenGB Pack/Songs/BattleTower.ogg
+ContentPacks/KolbenGB Pack/Songs/Brain_Battle.ogg
+ContentPacks/KolbenGB Pack/Songs/BugContest.ogg
+ContentPacks/KolbenGB Pack/Songs/BurnedTower.ogg
+ContentPacks/KolbenGB Pack/Songs/Celadon.ogg
+ContentPacks/KolbenGB Pack/Songs/Center.ogg
+ContentPacks/KolbenGB Pack/Songs/Cerulean.ogg
+ContentPacks/KolbenGB Pack/Songs/Champion_Defeat.ogg
+ContentPacks/KolbenGB Pack/Songs/Cherrygrove.ogg
+ContentPacks/KolbenGB Pack/Songs/Cinnabar.ogg
+ContentPacks/KolbenGB Pack/Songs/Dark_Cave.ogg
+ContentPacks/KolbenGB Pack/Songs/DiggletsCave.ogg
+ContentPacks/KolbenGB Pack/Songs/DragonsDen.ogg
+ContentPacks/KolbenGB Pack/Songs/Ecruteak.ogg
+ContentPacks/KolbenGB Pack/Songs/Elite_Defeat.ogg
+ContentPacks/KolbenGB Pack/Songs/ElmsLab.ogg
+ContentPacks/KolbenGB Pack/Songs/Entei_Battle.ogg
+ContentPacks/KolbenGB Pack/Songs/Entei_Battle_Intro.ogg
+ContentPacks/KolbenGB Pack/Songs/Eusine_Encounter.ogg
+ContentPacks/KolbenGB Pack/Songs/Evolution.ogg
+ContentPacks/KolbenGB Pack/Songs/Frontier.ogg
+ContentPacks/KolbenGB Pack/Songs/GameCorner.ogg
+ContentPacks/KolbenGB Pack/Songs/GameIntro.ogg
+ContentPacks/KolbenGB Pack/Songs/Goldenrod.ogg
+ContentPacks/KolbenGB Pack/Songs/GTS.ogg
+ContentPacks/KolbenGB Pack/Songs/Gym.ogg
+ContentPacks/KolbenGB Pack/Songs/HallOfFame.ogg
+ContentPacks/KolbenGB Pack/Songs/Ho-oh_Battle.ogg
+ContentPacks/KolbenGB Pack/Songs/Ho-oh_Battle_intro.ogg
+ContentPacks/KolbenGB Pack/Songs/IlexForest.ogg
+ContentPacks/KolbenGB Pack/Songs/Indigo.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Azalea.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/BarkTown.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/BattleFactory.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Brain_Battle.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/BugContest.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/BurnedTower.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Celadon.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Cerulean.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Cerulean_Cave.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Champion_Defeat.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Cherrygrove.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Dark_Cave.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/DragonsDen.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Elite_Defeat.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/ElmsLab.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Entei_Battle.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Eusine_Encounter.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Evolution.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Frontier.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/GameCorner.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Goldenrod.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/GTS.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Gym.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/HallOfFame.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Ho-oh_Battle.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Indigo.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Johto_Champion.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Johto_Elite.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Johto_Leader.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Johto_Trainer.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Johto_Wild.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Leader_Defeat.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Mom.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/PVP.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Raikou_Battle.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/RouteMusic1.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Show_Me_Around.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Space_Legend_Battle.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/StarTower.ogg
+ContentPacks/KolbenGB Pack/Songs/intro/Suicune_Battle.ogg
+ContentPacks/KolbenGB Pack/Songs/Johto_Champion.ogg
+ContentPacks/KolbenGB Pack/Songs/Johto_Champion_Intro.ogg
+ContentPacks/KolbenGB Pack/Songs/Johto_Elite.ogg
+ContentPacks/KolbenGB Pack/Songs/Johto_Elite_intro.ogg
+ContentPacks/KolbenGB Pack/Songs/Johto_Leader.ogg
+ContentPacks/KolbenGB Pack/Songs/Johto_Leader_intro.ogg
+ContentPacks/KolbenGB Pack/Songs/Johto_Trainer.ogg
+ContentPacks/KolbenGB Pack/Songs/Johto_Trainer_Intro.ogg
+ContentPacks/KolbenGB Pack/Songs/Johto_Wild.ogg
+ContentPacks/KolbenGB Pack/Songs/Johto_Wild_Intro.ogg
+ContentPacks/KolbenGB Pack/Songs/Leader_Defeat.ogg
+ContentPacks/KolbenGB Pack/Songs/Mom.ogg
+ContentPacks/KolbenGB Pack/Songs/PVP.ogg
+ContentPacks/KolbenGB Pack/Songs/PVP_Intro.ogg
+ContentPacks/KolbenGB Pack/Songs/Raikou_Battle.ogg
+ContentPacks/KolbenGB Pack/Songs/Raikou_Battle_Intro.ogg
+ContentPacks/KolbenGB Pack/Songs/RouteMusic0.ogg
+ContentPacks/KolbenGB Pack/Songs/RouteMusic1.ogg
+ContentPacks/KolbenGB Pack/Songs/Show_Me_Around.ogg
+ContentPacks/KolbenGB Pack/Songs/SovietMarch.ogg
+ContentPacks/KolbenGB Pack/Songs/Space_Legend_Battle.ogg
+ContentPacks/KolbenGB Pack/Songs/Space_Legend_Battle_intro.ogg
+ContentPacks/KolbenGB Pack/Songs/StarTower.ogg
+ContentPacks/KolbenGB Pack/Songs/Suicune_Battle.ogg
+ContentPacks/KolbenGB Pack/Songs/Suicune_Battle_Intro.ogg
+ContentPacks/KolbenGB Pack/Songs/Title.ogg
+ContentPacks/KolbenGB Pack/Sounds/badge_acquired.wav
+ContentPacks/KolbenGB Pack/Sounds/Battle/ballshake.wav
+ContentPacks/KolbenGB Pack/Sounds/Battle/Damage/normaldamage.wav
+ContentPacks/KolbenGB Pack/Sounds/Battle/Damage/not_effective.wav
+ContentPacks/KolbenGB Pack/Sounds/Battle/Damage/super_effective.wav
+ContentPacks/KolbenGB Pack/Sounds/Battle/Effects/effect_ember.wav
+ContentPacks/KolbenGB Pack/Sounds/Battle/Effects/effect_fly.wav
+ContentPacks/KolbenGB Pack/Sounds/Battle/Effects/effect_ice1.wav
+ContentPacks/KolbenGB Pack/Sounds/Battle/Effects/effect_poison.wav
+ContentPacks/KolbenGB Pack/Sounds/Battle/Effects/effect_pound.wav
+ContentPacks/KolbenGB Pack/Sounds/Battle/Effects/effect_thunderbolt.wav
+ContentPacks/KolbenGB Pack/Sounds/Battle/Effects/effect_thundershock2.wav
+ContentPacks/KolbenGB Pack/Sounds/Battle/Exp_Max.wav
+ContentPacks/KolbenGB Pack/Sounds/Battle/pokeball_land.wav
+ContentPacks/KolbenGB Pack/Sounds/Battle/running.wav
+ContentPacks/KolbenGB Pack/Sounds/Battle/Shiny.wav
+ContentPacks/KolbenGB Pack/Sounds/Battle/Throw.wav
+ContentPacks/KolbenGB Pack/Sounds/Bump.wav
+ContentPacks/KolbenGB Pack/Sounds/Buy2.wav
+ContentPacks/KolbenGB Pack/Sounds/Contest/RankPlace.wav
+ContentPacks/KolbenGB Pack/Sounds/Destroy.wav
+ContentPacks/KolbenGB Pack/Sounds/Egg_Hatch.wav
+ContentPacks/KolbenGB Pack/Sounds/Enter.wav
+ContentPacks/KolbenGB Pack/Sounds/FieldMove_Cut.wav
+ContentPacks/KolbenGB Pack/Sounds/FieldMove_RockSmash.wav
+ContentPacks/KolbenGB Pack/Sounds/FieldMove_Strength.wav
+ContentPacks/KolbenGB Pack/Sounds/Ice_Break.wav
+ContentPacks/KolbenGB Pack/Sounds/Ice_Crack.wav
+ContentPacks/KolbenGB Pack/Sounds/item_found.wav
+ContentPacks/KolbenGB Pack/Sounds/Itemfinder.wav
+ContentPacks/KolbenGB Pack/Sounds/Jump_Ledge.wav
+ContentPacks/KolbenGB Pack/Sounds/MagnetTrain.wav
+ContentPacks/KolbenGB Pack/Sounds/Menu_Open.wav
+ContentPacks/KolbenGB Pack/Sounds/Pickup.wav
+ContentPacks/KolbenGB Pack/Sounds/PokeBall_Set.wav
+ContentPacks/KolbenGB Pack/Sounds/pokemon_heal.wav
+ContentPacks/KolbenGB Pack/Sounds/repel_use.wav
+ContentPacks/KolbenGB Pack/Sounds/Save.wav
+ContentPacks/KolbenGB Pack/Sounds/Select.wav
+ContentPacks/KolbenGB Pack/Sounds/Shutter.wav
+ContentPacks/KolbenGB Pack/Sounds/single_heal.wav
+ContentPacks/KolbenGB Pack/Sounds/Success.wav
+ContentPacks/KolbenGB Pack/Sounds/Success_Small.wav
+ContentPacks/KolbenGB Pack/Sounds/Teleport.wav
+ContentPacks/KolbenGB Pack/Sounds/TossPokeball.wav
+ContentPacks/KolbenGB Pack/Sounds/TRHQ_Alarm.wav
+ContentPacks/KolbenGB Pack/Textures/Alph.png
+ContentPacks/KolbenGB Pack/Textures/Apricorn.png
+ContentPacks/KolbenGB Pack/Textures/Azalea.png
+ContentPacks/KolbenGB Pack/Textures/Backdrops/Grass.png
+ContentPacks/KolbenGB Pack/Textures/Backdrops/Water.png
+ContentPacks/KolbenGB Pack/Textures/BarkTown.png
+ContentPacks/KolbenGB Pack/Textures/BerryForest.png
+ContentPacks/KolbenGB Pack/Textures/Blackthorn.png
+ContentPacks/KolbenGB Pack/Textures/Center.png
+ContentPacks/KolbenGB Pack/Textures/Cherrygrove.png
+ContentPacks/KolbenGB Pack/Textures/Chess.png
+ContentPacks/KolbenGB Pack/Textures/Cianwood.png
+ContentPacks/KolbenGB Pack/Textures/DDive.png
+ContentPacks/KolbenGB Pack/Textures/Emoticons.png
+ContentPacks/KolbenGB Pack/Textures/Gate.png
+ContentPacks/KolbenGB Pack/Textures/Gym.png
+ContentPacks/KolbenGB Pack/Textures/House.png
+ContentPacks/KolbenGB Pack/Textures/House2.png
+ContentPacks/KolbenGB Pack/Textures/House3.png
+ContentPacks/KolbenGB Pack/Textures/House4.png
+ContentPacks/KolbenGB Pack/Textures/Intro.png
+ContentPacks/KolbenGB Pack/Textures/Kanto0.png
+ContentPacks/KolbenGB Pack/Textures/KantoGates.png
+ContentPacks/KolbenGB Pack/Textures/Lab.png
+ContentPacks/KolbenGB Pack/Textures/Lavender.png
+ContentPacks/KolbenGB Pack/Textures/Mart.png
+ContentPacks/KolbenGB Pack/Textures/MtSilver.png
+ContentPacks/KolbenGB Pack/Textures/NPC/0.png
+ContentPacks/KolbenGB Pack/Textures/NPC/0_Bow.png
+ContentPacks/KolbenGB Pack/Textures/NPC/1.png
+ContentPacks/KolbenGB Pack/Textures/NPC/10.png
+ContentPacks/KolbenGB Pack/Textures/NPC/11.png
+ContentPacks/KolbenGB Pack/Textures/NPC/12.png
+ContentPacks/KolbenGB Pack/Textures/NPC/13.png
+ContentPacks/KolbenGB Pack/Textures/NPC/14.png
+ContentPacks/KolbenGB Pack/Textures/NPC/141F.png
+ContentPacks/KolbenGB Pack/Textures/NPC/142F.png
+ContentPacks/KolbenGB Pack/Textures/NPC/15.png
+ContentPacks/KolbenGB Pack/Textures/NPC/16.png
+ContentPacks/KolbenGB Pack/Textures/NPC/17.png
+ContentPacks/KolbenGB Pack/Textures/NPC/18.png
+ContentPacks/KolbenGB Pack/Textures/NPC/19.png
+ContentPacks/KolbenGB Pack/Textures/NPC/2.png
+ContentPacks/KolbenGB Pack/Textures/NPC/20.png
+ContentPacks/KolbenGB Pack/Textures/NPC/21.png
+ContentPacks/KolbenGB Pack/Textures/NPC/22.png
+ContentPacks/KolbenGB Pack/Textures/NPC/23.png
+ContentPacks/KolbenGB Pack/Textures/NPC/24.png
+ContentPacks/KolbenGB Pack/Textures/NPC/25.png
+ContentPacks/KolbenGB Pack/Textures/NPC/26.png
+ContentPacks/KolbenGB Pack/Textures/NPC/27.png
+ContentPacks/KolbenGB Pack/Textures/NPC/28.png
+ContentPacks/KolbenGB Pack/Textures/NPC/29.png
+ContentPacks/KolbenGB Pack/Textures/NPC/3.png
+ContentPacks/KolbenGB Pack/Textures/NPC/30.png
+ContentPacks/KolbenGB Pack/Textures/NPC/31.png
+ContentPacks/KolbenGB Pack/Textures/NPC/32.png
+ContentPacks/KolbenGB Pack/Textures/NPC/33.png
+ContentPacks/KolbenGB Pack/Textures/NPC/34.png
+ContentPacks/KolbenGB Pack/Textures/NPC/35.png
+ContentPacks/KolbenGB Pack/Textures/NPC/36.png
+ContentPacks/KolbenGB Pack/Textures/NPC/37.png
+ContentPacks/KolbenGB Pack/Textures/NPC/38.png
+ContentPacks/KolbenGB Pack/Textures/NPC/39.png
+ContentPacks/KolbenGB Pack/Textures/NPC/4.png
+ContentPacks/KolbenGB Pack/Textures/NPC/40.png
+ContentPacks/KolbenGB Pack/Textures/NPC/41.png
+ContentPacks/KolbenGB Pack/Textures/NPC/42.png
+ContentPacks/KolbenGB Pack/Textures/NPC/43.png
+ContentPacks/KolbenGB Pack/Textures/NPC/44.png
+ContentPacks/KolbenGB Pack/Textures/NPC/45.png
+ContentPacks/KolbenGB Pack/Textures/NPC/46.png
+ContentPacks/KolbenGB Pack/Textures/NPC/47.png
+ContentPacks/KolbenGB Pack/Textures/NPC/48.png
+ContentPacks/KolbenGB Pack/Textures/NPC/49.png
+ContentPacks/KolbenGB Pack/Textures/NPC/5.png
+ContentPacks/KolbenGB Pack/Textures/NPC/50.png
+ContentPacks/KolbenGB Pack/Textures/NPC/51.png
+ContentPacks/KolbenGB Pack/Textures/NPC/52.png
+ContentPacks/KolbenGB Pack/Textures/NPC/53.png
+ContentPacks/KolbenGB Pack/Textures/NPC/54.png
+ContentPacks/KolbenGB Pack/Textures/NPC/55.png
+ContentPacks/KolbenGB Pack/Textures/NPC/56.png
+ContentPacks/KolbenGB Pack/Textures/NPC/57.png
+ContentPacks/KolbenGB Pack/Textures/NPC/58.png
+ContentPacks/KolbenGB Pack/Textures/NPC/59.png
+ContentPacks/KolbenGB Pack/Textures/NPC/6.png
+ContentPacks/KolbenGB Pack/Textures/NPC/60.png
+ContentPacks/KolbenGB Pack/Textures/NPC/61.png
+ContentPacks/KolbenGB Pack/Textures/NPC/62.png
+ContentPacks/KolbenGB Pack/Textures/NPC/63.png
+ContentPacks/KolbenGB Pack/Textures/NPC/64.png
+ContentPacks/KolbenGB Pack/Textures/NPC/65.png
+ContentPacks/KolbenGB Pack/Textures/NPC/66.png
+ContentPacks/KolbenGB Pack/Textures/NPC/67.png
+ContentPacks/KolbenGB Pack/Textures/NPC/68.png
+ContentPacks/KolbenGB Pack/Textures/NPC/69.png
+ContentPacks/KolbenGB Pack/Textures/NPC/7.png
+ContentPacks/KolbenGB Pack/Textures/NPC/70.png
+ContentPacks/KolbenGB Pack/Textures/NPC/71.png
+ContentPacks/KolbenGB Pack/Textures/NPC/72.png
+ContentPacks/KolbenGB Pack/Textures/NPC/73.png
+ContentPacks/KolbenGB Pack/Textures/NPC/74.png
+ContentPacks/KolbenGB Pack/Textures/NPC/75.png
+ContentPacks/KolbenGB Pack/Textures/NPC/76.png
+ContentPacks/KolbenGB Pack/Textures/NPC/77.png
+ContentPacks/KolbenGB Pack/Textures/NPC/78.png
+ContentPacks/KolbenGB Pack/Textures/NPC/79.png
+ContentPacks/KolbenGB Pack/Textures/NPC/8.png
+ContentPacks/KolbenGB Pack/Textures/NPC/80.png
+ContentPacks/KolbenGB Pack/Textures/NPC/81.png
+ContentPacks/KolbenGB Pack/Textures/NPC/82.png
+ContentPacks/KolbenGB Pack/Textures/NPC/83.png
+ContentPacks/KolbenGB Pack/Textures/NPC/84.png
+ContentPacks/KolbenGB Pack/Textures/NPC/85.png
+ContentPacks/KolbenGB Pack/Textures/NPC/86.png
+ContentPacks/KolbenGB Pack/Textures/NPC/87.png
+ContentPacks/KolbenGB Pack/Textures/NPC/88.png
+ContentPacks/KolbenGB Pack/Textures/NPC/89.png
+ContentPacks/KolbenGB Pack/Textures/NPC/9.png
+ContentPacks/KolbenGB Pack/Textures/NPC/90.png
+ContentPacks/KolbenGB Pack/Textures/NPC/91.png
+ContentPacks/KolbenGB Pack/Textures/NPC/92.png
+ContentPacks/KolbenGB Pack/Textures/NPC/93.png
+ContentPacks/KolbenGB Pack/Textures/NPC/94.png
+ContentPacks/KolbenGB Pack/Textures/NPC/95.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Agatha.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Archer.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Ariana.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/0.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/1.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/10.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/11.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/12.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/13.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/14.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/15.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/16.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/17.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/18.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/19.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/2.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/20.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/21.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/22.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/23.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/24.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/25.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/26.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/27.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/28.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/29.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/3.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/30.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/31.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/32.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/33.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/34.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/35.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/36.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/37.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/38.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/39.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/4.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/40.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/41.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/42.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/43.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/44.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/45.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/46.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/47.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/48.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/49.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/5.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/50.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/51.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/52.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/53.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/6.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/7.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/8.png
+ContentPacks/KolbenGB Pack/Textures/NPC/battletower/9.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Blaine.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Blue.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Brock.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Bruno.png
+ContentPacks/KolbenGB Pack/Textures/NPC/BT_Nilllzz.png
+ContentPacks/KolbenGB Pack/Textures/NPC/BT_Statue.png
+ContentPacks/KolbenGB Pack/Textures/NPC/BTGuide.png
+ContentPacks/KolbenGB Pack/Textures/NPC/BugCatcher.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Bugsy.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Captain.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Chuck.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Clair.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Construction.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Daisy.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Elder.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Erika.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Ethan.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Eusine.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Falkner.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Farfetch'd.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Giovanni.png
+ContentPacks/KolbenGB Pack/Textures/NPC/GoldRetro.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Green.png
+ContentPacks/KolbenGB Pack/Textures/NPC/GruntF.png
+ContentPacks/KolbenGB Pack/Textures/NPC/GruntM.png
+ContentPacks/KolbenGB Pack/Textures/NPC/GymGuy.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Hilbert.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Hilda.png
+ContentPacks/KolbenGB Pack/Textures/NPC/James-O.png
+ContentPacks/KolbenGB Pack/Textures/NPC/James.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Janine.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Jasmine.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Jessie-O.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Jessie.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Karen.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Koga.png
+ContentPacks/KolbenGB Pack/Textures/NPC/KrisRetro.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Kurt.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Lance.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Leaf.png
+ContentPacks/KolbenGB Pack/Textures/NPC/LittleGirl.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Looker.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Lorelei.png
+ContentPacks/KolbenGB Pack/Textures/NPC/LtSurge.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Lyra.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Mary.png
+ContentPacks/KolbenGB Pack/Textures/NPC/MasterRoshi.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Meowth-O.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Meowth.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Misty.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Morty.png
+ContentPacks/KolbenGB Pack/Textures/NPC/N.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Nate.png
+ContentPacks/KolbenGB Pack/Textures/NPC/nilllzz.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Oak.png
+ContentPacks/KolbenGB Pack/Textures/NPC/OldHatMan.png
+ContentPacks/KolbenGB Pack/Textures/NPC/OldLady.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Petrel.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Pidgey.png
+ContentPacks/KolbenGB Pack/Textures/NPC/PinkShirtGirl.png
+ContentPacks/KolbenGB Pack/Textures/NPC/PokeBall.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Pokemon/243_stone.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Pokemon/244_stone.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Pokemon/245_stone.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Proton.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Pryce.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Queen.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Rattata.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Red.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Red_Alternative.png
+ContentPacks/KolbenGB Pack/Textures/NPC/RedMom.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Robot1.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Robot2.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Robot3.png
+ContentPacks/KolbenGB Pack/Textures/NPC/rock.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Rosa.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Sabrina.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Sage.png
+ContentPacks/KolbenGB Pack/Textures/NPC/seaweed.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Slowpoke.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Steven.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Substitute.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Sudowoodo.png
+ContentPacks/KolbenGB Pack/Textures/NPC/TowerOwner.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Whitney.png
+ContentPacks/KolbenGB Pack/Textures/NPC/Will.png
+ContentPacks/KolbenGB Pack/Textures/Portraits.png
+ContentPacks/KolbenGB Pack/Textures/RocketBase.png
+ContentPacks/KolbenGB Pack/Textures/RotomRoom.png
+ContentPacks/KolbenGB Pack/Textures/Routes.png
+ContentPacks/KolbenGB Pack/Textures/Seasons/Flowers.png
+ContentPacks/KolbenGB Pack/Textures/Seasons/Grass.png
+ContentPacks/KolbenGB Pack/Textures/Seasons/GrassAlt.png
+ContentPacks/KolbenGB Pack/Textures/Seasons/PlantColoring.png
+ContentPacks/KolbenGB Pack/Textures/Seasons/PlantColoringAlt.png
+ContentPacks/KolbenGB Pack/Textures/Seasons/PlantColoringAlt2.png
+ContentPacks/KolbenGB Pack/Textures/Switch.png
+ContentPacks/KolbenGB Pack/Textures/UnderwaterCave.png
+ContentPacks/KolbenGB Pack/Textures/Village.png
+ContentPacks/KolbenGB Pack/Textures/violet.png
+ContentPacks/KolbenGB Pack/Textures/WoodTower.png
+GameModes/Lost Silver/Content/Data/Maps/Structures/Stairs/MtSilver_Inside/North.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Stairs/MtSilver_Inside/North_Fake.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Stairs/MtSilver_Inside/South.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Stairs/MtSilver_Inside/South_Fake.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Stairs/MtSilver_Outside/North.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Stairs/MtSilver_Outside/South.dat
+GameModes/Lost Silver/Content/Data/Scripts/House.dat
+GameModes/Lost Silver/Content/Data/Scripts/Tunnel_Dark5.dat
+GameModes/Lost Silver/Content/GUI/PokemonMenu/Gen1.png
+GameModes/Lost Silver/Content/GUI/PokemonMenu/Gen2.png
+GameModes/Lost Silver/Content/Pokemon/Overworld/Normal/155.png
+GameModes/Lost Silver/Content/Pokemon/Overworld/Shiny/155.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/CelebiHalf.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/CelebiHalfScreech.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Cyndaquil.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/CyndaquilNoEyes.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/FeraligatrNoEyes.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/PikachuSad.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/TotodileNoEyes.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/TyphlosionNoEyes.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/TyphlosionNoLegs.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_a.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_b.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_c.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_d.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_e.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_f.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_g.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_h.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_i.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_j.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_k.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_l.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_m.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_n.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_o.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_p.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_q.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_r.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_s.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_t.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_u.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_v.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_w.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_x.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_y.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/Unown_z.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_a.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_b.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_c.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_d.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_e.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_f.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_g.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_h.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_i.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_j.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_k.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_l.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_m.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_n.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_o.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_p.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_q.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_r.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_s.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_t.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_u.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_v.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_w.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_x.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_y.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/UnownRedEye_z.png
+GameModes/Lost Silver/Content/Songs/Intro/PokeFlute.ogg
+GameModes/Lost Silver/Content/Songs/PokeFlute.ogg
+GameModes/Lost Silver/Content/Sounds/Cries/155.wav
+GameModes/Lost Silver/Content/Textures/Goldenrod.png
+GameModes/Lost Silver/Content/Textures/House.png
+GameModes/Lost Silver/Content/Textures/Lab.png
+GameModes/Lost Silver/Content/Textures/Routes.png
+GameModes/Lost Silver/Content/Textures/Routes_Dead.png
+Save/Ethan/Apricorns.dat
+Save/Ethan/Berries.dat
+Save/Ethan/Box.dat
+Save/Ethan/Daycare.dat
+Save/Ethan/HallOfFame.dat
+Save/Ethan/ItemData.dat
+Save/Ethan/Items.dat
+Save/Ethan/NPC.dat
+Save/Ethan/Options.dat
+Save/Ethan/Party.dat
+Save/Ethan/Player.dat
+Save/Ethan/Pokedex.dat
+Save/Ethan/Register.dat
+Save/Ethan/RoamingPokemon.dat
+Save/Ethan/SecretBase.dat
+Save/Ethan/Statistics.dat
+Save/Hurry/Apricorns.dat
+Save/Hurry/Berries.dat
+Save/Hurry/Box.dat
+Save/Hurry/Daycare.dat
+Save/Hurry/HallOfFame.dat
+Save/Hurry/ItemData.dat
+Save/Hurry/Items.dat
+Save/Hurry/NPC.dat
+Save/Hurry/Options.dat
+Save/Hurry/Party.dat
+Save/Hurry/Player.dat
+Save/Hurry/Pokedex.dat
+Save/Hurry/Register.dat
+Save/Hurry/RoamingPokemon.dat
+Save/Hurry/SecretBase.dat
+Save/Hurry/Statistics.dat
+screenshots/2022-04-05_16.02.34.png
+screenshots/2022-06-24_16.30.19.png
+SharpDX.xml
