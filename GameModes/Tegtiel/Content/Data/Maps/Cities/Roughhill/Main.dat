@@ -121,16 +121,16 @@ Floors:
 			{"Floor"{ENT[{"Size"{intArr[1,1]}}{"Position"{intArr[15,2,21]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[16,0,16,16]}}]}}
 			{"Floor"{ENT[{"Size"{intArr[1,2]}}{"Position"{intArr[16,2,20]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[48,80,16,16]}}]}}
 		
-		PokéCenter
+		PokeCenter
 			{"Floor"{ENT[{"Size"{intArr[4,4]}}{"Position"{intArr[4,3,11]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[0,0,16,16]}}{"Remove"{int[1]}}]}}
-			{"Floor"{ENT[{"Size"{intArr[1,4]}}{"Position"{intArr[4,3,11]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[32,80,16,16]}}]}}
+			{"Floor"{ENT[{"Size"{intArr[1,4]}}{"Position"{intArr[4,3,11]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[64,80,16,16]}}]}}
 			{"Floor"{ENT[{"Size"{intArr[2,4]}}{"Position"{intArr[5,3,11]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[0,0,16,16]}}]}}
-			{"Floor"{ENT[{"Size"{intArr[1,4]}}{"Position"{intArr[7,3,11]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[48,80,16,16]}}]}}
-		PokéMart
+			{"Floor"{ENT[{"Size"{intArr[1,4]}}{"Position"{intArr[7,3,11]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[80,80,16,16]}}]}}
+		PokeMart
 			{"Floor"{ENT[{"Size"{intArr[4,4]}}{"Position"{intArr[12,3,11]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[0,0,16,16]}}{"Remove"{int[1]}}]}}
-			{"Floor"{ENT[{"Size"{intArr[1,4]}}{"Position"{intArr[12,3,11]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[32,80,16,16]}}]}}
+			{"Floor"{ENT[{"Size"{intArr[1,4]}}{"Position"{intArr[12,3,11]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[64,80,16,16]}}]}}
 			{"Floor"{ENT[{"Size"{intArr[2,4]}}{"Position"{intArr[13,3,11]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[0,0,16,16]}}]}}
-			{"Floor"{ENT[{"Size"{intArr[1,4]}}{"Position"{intArr[15,3,11]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[48,80,16,16]}}]}}
+			{"Floor"{ENT[{"Size"{intArr[1,4]}}{"Position"{intArr[15,3,11]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[80,80,16,16]}}]}}
 		Gym
 			{"Floor"{ENT[{"Size"{intArr[6,5]}}{"Position"{intArr[6,5,2]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[0,0,16,16]}}{"Remove"{int[1]}}]}}
 			{"Floor"{ENT[{"Size"{intArr[1,5]}}{"Position"{intArr[6,5,2]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[64,80,16,16]}}]}}
