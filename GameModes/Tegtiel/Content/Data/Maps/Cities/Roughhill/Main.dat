@@ -676,7 +676,7 @@ Buildings:
 			
 OffsetMaps:
 	{"OffsetMap"{MAP[{"Offset"{sngArr[-24,17]}}{"Map"{str[Routes\Route1.dat]}}]}}
-	{"OffsetMap"{MAP[{"Offset"{sngArr[-24,1]}}{"Map"{str[OffsetMaps\Route1_Offset.dat]}}]}}
+	{"OffsetMap"{MAP[{"Offset"{sngArr[-24,1]}}{"Map"{str[OffsetMaps\Route1.dat]}}]}}
 	{"OffsetMap"{MAP[{"Offset"{sngArr[-42,28]}}{"Map"{str[Cities\Riverlight\Main.dat]}}]}}
 
 Warps:
