@@ -1,0 +1,23 @@
+CollisionEntity
+	{"EntityField"{ENT[{"Scale"{sngArr[2,1,1]}}{"Size"{intArr[1,1]}}{"EntityID"{str[AllSidesObject]}}{"Position"{sngArr[0.5,0,0]}}{"TexturePath"{str[Outside]}}{"Textures"{recArr[[0,0,16,16]]}}{"TextureIndex"{intArr[1,1,-1,-1,2,2,1,1,0,0,0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[12]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}{"Visible"{bool[0]}}]}}
+Back
+	{"EntityField"{ENT[{"Scale"{sngArr[1,0.5,0.125]}}{"Size"{intArr[1,1]}}{"EntityID"{str[AllSidesObject]}}{"Position"{sngArr[0,0.0645,0.07575]}}{"TexturePath"{str[Cities\Roughhill]}}{"Textures"{recArr[[96,80,16,8][96,121,16,2][96,104,2,8][112,112,16,8][96,124,16,2]]}}{"TextureIndex"{intArr[0,0,-1,-1,2,2,3,3,1,1,4,4]}}{"Collision"{bool[0]}}{"ModelID"{int[12]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"RotationXYZ"{sngArr[-0.5,0,0]}}]}}
+	{"EntityField"{ENT[{"Scale"{sngArr[1,0.5,0.125]}}{"Size"{intArr[1,1]}}{"EntityID"{str[AllSidesObject]}}{"Position"{sngArr[1,0.0645,0.07575]}}{"TexturePath"{str[Cities\Roughhill]}}{"Textures"{recArr[[112,80,16,8][112,121,16,2][100,104,2,8][96,112,16,8][112,124,16,2]]}}{"TextureIndex"{intArr[0,0,2,2,-1,-1,3,3,1,1,4,4]}}{"Collision"{bool[0]}}{"ModelID"{int[12]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"RotationXYZ"{sngArr[-0.5,0,0]}}]}}
+Seat
+	{"EntityField"{ENT[{"Scale"{sngArr[1,0.125,0.5625]}}{"Size"{intArr[1,1]}}{"EntityID"{str[AllSidesObject]}}{"Position"{sngArr[0,-0.1875,0.53125]}}{"TexturePath"{str[Cities\Roughhill]}}{"Textures"{recArr[[96,88,16,9][96,98,16,2][104,104,9,2][96,101,16,2]]}}{"TextureIndex"{intArr[1,1,-1,-1,2,2,3,3,0,0,0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[12]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
+	{"EntityField"{ENT[{"Scale"{sngArr[1,0.125,0.5625]}}{"Size"{intArr[1,1]}}{"EntityID"{str[AllSidesObject]}}{"Position"{sngArr[1,-0.1875,0.53125]}}{"TexturePath"{str[Cities\Roughhill]}}{"Textures"{recArr[[112,88,16,9][112,98,16,2][104,104,9,2][112,101,16,2]]}}{"TextureIndex"{intArr[1,1,2,2,-1,-1,3,3,0,0,0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[12]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
+Legs
+	{"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[0.25,0.25,0.125]}}{"Position"{sngArr[-0.25,-0.375,0.31255]}}{"TexturePath"{str[Cities\Roughhill]}}{"Textures"{recArr[[112,108,4,4][120,108,2,4][104,108,4,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,2,2,-1,-1]}}{"Collision"{bool[0]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
+	{"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[0.25,0.25,0.125]}}{"Position"{sngArr[1.25,-0.375,0.31255]}}{"TexturePath"{str[Cities\Roughhill]}}{"Textures"{recArr[[112,108,4,4][120,108,2,4][104,108,4,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,2,2,-1,-1]}}{"Collision"{bool[0]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
+
+	{"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[0.25,0.25,0.125]}}{"Position"{sngArr[-0.25,-0.375,0.74975]}}{"TexturePath"{str[Cities\Roughhill]}}{"Textures"{recArr[[112,108,4,4][120,108,2,4][104,108,4,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,2,2,-1,-1]}}{"Collision"{bool[0]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
+	{"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[0.25,0.25,0.125]}}{"Position"{sngArr[1.25,-0.375,0.74975]}}{"TexturePath"{str[Cities\Roughhill]}}{"Textures"{recArr[[112,108,4,4][120,108,2,4][104,108,4,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,2,2,-1,-1]}}{"Collision"{bool[0]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
+Floors
+	Back
+		{"Floor"{ENT[{"SeasonTexture"{str[Grass]}}{"Size"{intArr[2,1]}}{"Position"{intArr[0,0,0]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[96,128,16,16]}}{"Remove"{int[1]}}]}}
+		{"Floor"{ENT[{"SeasonTexture"{str[Grass]}}{"Size"{intArr[1,1]}}{"Position"{intArr[0,0,0]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[96,128,16,16]}}]}}
+		{"Floor"{ENT[{"SeasonTexture"{str[Grass]}}{"Size"{intArr[1,1]}}{"Position"{intArr[1,0,0]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[112,128,16,16]}}]}}
+	Front
+		{"Floor"{ENT[{"Size"{intArr[2,1]}}{"Position"{intArr[0,0,1]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[64,128,16,16]}}{"Remove"{int[1]}}]}}
+		{"Floor"{ENT[{"Size"{intArr[1,1]}}{"Position"{intArr[0,0,1]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[64,128,16,16]}}]}}
+		{"Floor"{ENT[{"Size"{intArr[1,1]}}{"Position"{intArr[1,0,1]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[80,128,16,16]}}]}}
