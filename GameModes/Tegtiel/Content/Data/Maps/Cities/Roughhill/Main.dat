@@ -1,5 +1,5 @@
 {"Level"{LEV[{"Name"{str[Roughhill City]}}{"MusicLoop"{str[Silence]}}{"CurrentRegion"{str[Tegtiel]}}]}}
-{"Actions"{LEV[{"CanTeleport"{bool[1]}}{"CanDig"{bool[0]}}{"CanFly"{bool[1]}}{"EnvironmentType"{int[0]}}{"Season"{int[2]}}{"Weather"{int[1]}}{"Lighting"{int[0]}}]}}
+{"Actions"{LEV[{"CanTeleport"{bool[1]}}{"CanDig"{bool[0]}}{"CanFly"{bool[1]}}{"EnvironmentType"{int[0]}}{"Weather"{int[1]}}{"Lighting"{int[0]}}]}}
 
 Floors:
 	Grass
@@ -712,6 +712,7 @@ Buildings:
 				{"Floor"{ENT[{"Size"{intArr[1,1]}}{"Position"{intArr[15,2,21]}}{"TexturePath"{str[Cities\Roughhill]}}{"Texture"{rec[16,0,16,16]}}]}}
 			
 OffsetMaps:
+	{"OffsetMap"{MAP[{"Offset"{sngArr[0,-15]}}{"Map"{str[OffsetMaps\Roughhill.dat]}}]}}
 	{"OffsetMap"{MAP[{"Offset"{sngArr[-46,0]}}{"Map"{str[OffsetMaps\Riverlight.dat]}}]}}
 	{"OffsetMap"{MAP[{"Offset"{sngArr[-24,17]}}{"Map"{str[Routes\Route1.dat]}}]}}
 	{"OffsetMap"{MAP[{"Offset"{sngArr[-24,1]}}{"Map"{str[OffsetMaps\Route1.dat]}}]}}
