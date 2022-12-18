@@ -30995,3 +30995,1238 @@ GameModes/PolishedKolben/Content/Models/Pokemon/Snorlax/Snorlax_Shiny_0.xnb
 GameModes/PolishedKolben/Content/Songs/MagnetTrain.ogg
 GameModes/PolishedKolben/Content/Textures/Cities/Goldenrod.png
 screenshots/2022-11-02_19.06.44.png
+Content/Data/maps/structures/frontier/facilities/factory.dat
+Content/Data/maps/structures/frontier/facilities/pike.dat
+Content/Data/maps/structures/frontier/facilities/tower.dat
+Content/Data/maps/structures/SeaPlane.dat
+Content/Models/BattlePike/BattlePike.xnb
+Content/Models/BattlePike/BattlePike_0.xnb
+Content/Models/SeaPlane/SeaPlane.xnb
+Content/Models/SeaPlane/SeaPlane_0.xnb
+Content/Models/SeaPlane/SeaPlane_1.xnb
+Content/Models/SeaPlane/SeaPlane_Propeller.xnb
+ContentPacks/GameBoyPack_Textures_Polished/exceptions.dat
+ContentPacks/GameBoyPack_Textures_Polished/GUI/Badges.png
+ContentPacks/GameBoyPack_Textures_Polished/GUI/EggBreak.png
+ContentPacks/GameBoyPack_Textures_Polished/GUI/Intro/VSIntro.png
+ContentPacks/GameBoyPack_Textures_Polished/GUI/Menus/InterfaceColors.png
+ContentPacks/GameBoyPack_Textures_Polished/GUI/Menus/MainMenu.png
+ContentPacks/GameBoyPack_Textures_Polished/GUI/Menus/Menu.png
+ContentPacks/GameBoyPack_Textures_Polished/GUI/PokemonMenu/Gen1.png
+ContentPacks/GameBoyPack_Textures_Polished/GUI/PokemonMenu/Gen2.png
+ContentPacks/GameBoyPack_Textures_Polished/GUI/PokemonMenu/Gen3.png
+ContentPacks/GameBoyPack_Textures_Polished/GUI/PokemonMenu/OtherForms.png
+ContentPacks/GameBoyPack_Textures_Polished/GUI/PokemonMenu/Unown.png
+ContentPacks/GameBoyPack_Textures_Polished/info.dat
+ContentPacks/GameBoyPack_Textures_Polished/Items/Fossils.png
+ContentPacks/GameBoyPack_Textures_Polished/Items/ItemSheet.png
+ContentPacks/GameBoyPack_Textures_Polished/Models/boat/SSAqua.xnb
+ContentPacks/GameBoyPack_Textures_Polished/Models/boat/SSAqua_0.xnb
+ContentPacks/GameBoyPack_Textures_Polished/Models/boat2/Boat.xnb
+ContentPacks/GameBoyPack_Textures_Polished/Models/boat2/Boat_0.xnb
+ContentPacks/GameBoyPack_Textures_Polished/Models/building/KolbenTower.xnb
+ContentPacks/GameBoyPack_Textures_Polished/Models/building/KolbenTower_0.xnb
+ContentPacks/GameBoyPack_Textures_Polished/Models/Pokemon/Snorlax/Normal.xnb
+ContentPacks/GameBoyPack_Textures_Polished/Models/Pokemon/Snorlax/Shiny.xnb
+ContentPacks/GameBoyPack_Textures_Polished/Models/Pokemon/Snorlax/Snorlax_Normal_0.xnb
+ContentPacks/GameBoyPack_Textures_Polished/Models/Pokemon/Snorlax/Snorlax_Shiny_0.xnb
+ContentPacks/GameBoyPack_Textures_Polished/Models/Snorlax/Normal.xnb
+ContentPacks/GameBoyPack_Textures_Polished/Models/Snorlax/Shiny.xnb
+ContentPacks/GameBoyPack_Textures_Polished/Models/Snorlax/Snorlax_Normal_0.xnb
+ContentPacks/GameBoyPack_Textures_Polished/Models/Snorlax/Snorlax_Shiny_0.xnb
+ContentPacks/GameBoyPack_Textures_Polished/Models/truck2/Truck.xnb
+ContentPacks/GameBoyPack_Textures_Polished/Models/truck2/Truck_0.xnb
+ContentPacks/GameBoyPack_Textures_Polished/Overworld Sprites Credit.txt
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Egg/Egg_back.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Egg/Egg_front.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Egg/Templates/Back.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Egg/Templates/Front.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Egg/Templates/Menu.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/1.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/10.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/100.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/101.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/102.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/103.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/103_alola.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/104.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/105.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/106.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/107.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/108.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/109.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/11.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/110.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/111.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/112.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/113.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/114.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/115.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/116.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/117.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/118.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/119.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/12.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/120.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/121.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/122.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/123.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/124.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/125.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/126.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/127.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/13.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/130.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/131.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/132.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/133.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/134.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/135.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/136.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/137.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/138.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/139.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/14.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/140.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/141.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/142.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/143.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/147.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/148.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/149.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/15.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/150.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/151.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/152.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/153.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/154.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/155.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/156.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/157.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/158.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/159.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/16.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/160.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/161.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/162.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/163.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/164.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/165.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/166.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/167.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/168.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/169.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/17.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/172.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/18.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/187.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/19.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/191.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/2.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/20.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-a.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-b.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-c.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-d.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-e.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-exclamation.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-f.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-g.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-h.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-i.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-j.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-k.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-l.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-m.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-n.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-o.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-p.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-q.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-question.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-r.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-s.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-t.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-u.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-v.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-w.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-x.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-y.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201-z.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_a.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_b.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_c.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_d.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_e.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_exclamation.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_f.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_g.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_h.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_i.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_j.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_k.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_l.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_m.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_n.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_o.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_p.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_q.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_question.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_r.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_s.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_t.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_u.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_v.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_w.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_x.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_y.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/201_z.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/21.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/22.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/222.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/23.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/24.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/243.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/244.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/245.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/249.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/25.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/250.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/251.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/26.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/265.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/27.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/28.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/29.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/298.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/3.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/30.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/31.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/319.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/32.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/33.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/34.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/35.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/36.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/37.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/38.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/39.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/4.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/40.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/41.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/42.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/420.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/43.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/44.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/45.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/46.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/47.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/48.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/49.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/5.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/50.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/51.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/52.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/53.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/54.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/55.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/56.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/57.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/58.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/59.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/6.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/60.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/61.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/62.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/63.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/64.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/65.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/66.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/67.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/68.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/69.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/7.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/70.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/71.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/72.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/73.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/74.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/75.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/76.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/77.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/78.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/79.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/8.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/80.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/81.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/82.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/83.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/84.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/85.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/86.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/87.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/88.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/89.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/9.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/90.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/91.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/92.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/93.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/94.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/95.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/96.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/97.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/98.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Normal/99.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/1.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/10.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/100.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/101.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/102.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/103.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/103_alola.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/104.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/105.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/106.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/107.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/108.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/109.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/11.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/110.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/111.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/112.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/113.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/114.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/115.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/116.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/117.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/118.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/119.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/12.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/120.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/121.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/122.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/123.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/124.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/125.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/126.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/127.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/13.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/130.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/131.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/132.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/133.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/134.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/135.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/136.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/137.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/138.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/139.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/14.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/140.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/141.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/142.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/143.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/147.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/148.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/149.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/15.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/150.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/151.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/152.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/153.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/154.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/155.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/156.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/157.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/158.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/159.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/16.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/160.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/161.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/162.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/163.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/164.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/165.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/166.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/167.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/168.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/169.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/17.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/172.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/18.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/187.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/19.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/191.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/2.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/20.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-a.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-b.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-c.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-d.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-e.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-exclamation.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-f.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-g.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-h.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-i.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-j.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-k.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-l.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-m.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-n.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-o.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-p.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-q.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-question.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-r.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-s.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-t.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-u.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-v.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-w.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-x.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-y.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201-z.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/201.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/21.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/22.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/222.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/23.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/24.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/243.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/244.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/245.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/249.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/25.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/250.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/251.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/26.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/265.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/27.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/28.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/29.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/298.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/3.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/30.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/31.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/319.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/32.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/33.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/34.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/35.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/36.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/37.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/38.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/39.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/4.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/40.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/41.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/42.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/420.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/43.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/44.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/45.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/46.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/47.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/48.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/49.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/5.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/50.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/51.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/52.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/53.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/54.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/55.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/56.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/57.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/58.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/59.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/6.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/60.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/61.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/62.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/63.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/64.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/65.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/66.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/67.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/68.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/69.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/7.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/70.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/71.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/72.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/73.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/74.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/75.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/76.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/77.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/78.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/79.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/8.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/80.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/81.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/82.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/83.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/84.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/85.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/86.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/87.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/88.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/89.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/9.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/90.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/91.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/92.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/93.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/94.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/95.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/96.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/97.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/98.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Overworld/Shiny/99.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/1.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/10.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/100.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/101.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/102.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/103.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/103_Alola.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/104.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/105.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/106.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/107.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/108.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/109.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/11.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/110.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/111.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/112.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/113.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/114.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/115.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/116.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/117.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/118.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/119.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/12.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/120.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/121.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/122.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/123.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/124.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/125.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/126.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/127.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/128.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/129.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/13.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/130.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/131.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/132.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/133.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/134.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/135.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/136.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/137.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/138.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/139.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/14.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/140.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/141.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/142.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/143.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/144.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/145.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/146.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/147.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/148.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/149.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/15.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/150.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/151.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/152.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/153.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/154.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/155.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/156.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/157.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/158.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/159.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/16.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/160.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/161.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/162.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/163.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/164.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/165.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/166.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/167.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/168.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/169.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/17.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/170.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/171.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/172.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/173.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/174.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/175.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/176.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/177.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/178.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/179.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/18.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/180.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/181.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/182.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/183.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/184.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/185.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/186.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/187.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/188.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/189.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/19.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/190.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/191.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/192.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/193.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/194.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/195.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/196.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/197.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/198.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/199.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/2.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/20.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/200.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_a.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_b.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_c.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_d.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_e.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_f.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_g.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_h.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_i.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_j.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_k.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_l.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_m.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_n.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_o.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_p.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_q.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_r.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_s.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_t.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_u.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_v.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_w.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_x.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_y.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/201_z.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/202.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/203.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/204.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/205.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/206.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/207.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/208.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/209.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/21.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/210.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/211.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/212.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/213.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/214.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/215.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/216.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/217.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/218.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/219.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/22.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/220.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/221.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/222.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/223.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/224.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/225.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/226.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/227.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/228.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/229.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/23.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/230.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/231.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/232.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/233.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/234.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/235.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/236.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/237.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/238.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/239.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/24.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/240.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/241.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/242.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/243.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/244.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/245.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/246.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/247.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/248.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/249.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/25.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/250.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/251.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/26.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/265.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/27.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/28.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/29.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/298.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/3.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/30.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/31.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/32.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/33.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/34.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/35.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/36.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/37.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/38.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/39.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/4.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/40.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/41.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/42.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/43.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/44.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/45.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/46.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/47.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/48.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/49.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/5.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/50.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/51.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/52.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/53.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/54.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/55.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/56.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/57.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/58.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/59.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/6.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/60.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/61.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/62.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/63.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/64.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/65.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/66.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/67.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/68.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/69.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/7.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/70.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/71.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/72.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/73.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/74.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/75.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/76.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/77.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/78.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/79.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/8.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/80.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/81.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/82.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/83.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/84.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/85.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/86.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/87.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/88.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/89.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/9.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/90.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/91.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/92.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/93.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/94.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/95.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/96.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/97.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/98.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/99.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/Aerodactyl_Fossil.png
+ContentPacks/GameBoyPack_Textures_Polished/Pokemon/Sprites/Kabutops_Fossil.png
+ContentPacks/GameBoyPack_Textures_Polished/SkyDomeResource/Stars.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/0.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/0_Bow.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/1.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/10.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/11.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/12.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/13.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/14.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/141F.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/142F.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/15.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/16.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/17.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/18.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/19.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/2.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/20.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/21.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/22.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/23.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/24.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/25.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/26.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/27.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/28.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/29.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/3.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/30.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/31.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/32.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/33.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/34.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/35.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/36.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/37.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/38.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/39.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/4.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/40.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/41.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/42.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/43.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/44.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/45.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/46.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/47.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/48.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/49.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/5.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/50.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/51.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/52.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/53.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/54.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/55.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/56.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/57.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/58.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/59.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/6.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/60.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/61.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/62.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/63.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/64.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/65.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/66.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/67.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/68.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/69.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/7.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/70.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/71.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/72.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/73.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/74.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/75.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/76.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/77.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/78.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/79.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/8.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/80.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/81.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/82.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/83.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/84.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/85.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/86.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/87.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/88.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/89.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/9.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/90.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/91.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/92.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/93.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/94.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/95.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/\[Alternative NPC Sprites\]/4.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/\[Alternative NPC Sprites\]/Blaine.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/\[Alternative NPC Sprites\]/Ethan.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/\[Alternative NPC Sprites\]/Lance.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/\[Alternative NPC Sprites\]/Morty.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/\[Alternative NPC Sprites\]/Pryce.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/\[Alternative NPC Sprites\]/Red.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Agatha.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Archer.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Ariana.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/0.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/1.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/10.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/11.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/12.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/13.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/14.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/15.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/16.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/17.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/18.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/19.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/2.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/20.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/21.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/22.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/23.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/24.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/25.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/26.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/27.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/28.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/29.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/3.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/30.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/31.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/32.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/33.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/34.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/35.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/36.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/37.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/38.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/39.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/4.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/40.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/41.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/42.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/43.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/44.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/45.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/46.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/47.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/48.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/49.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/5.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/50.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/51.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/52.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/53.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/6.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/7.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/8.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/battletower/9.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Blaine.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Blue.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Brock.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Bruno.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/BT_Nilllzz.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/BT_Statue.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/BTGuide.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/BugCatcher.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Bugsy.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Captain.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Chuck.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Clair.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Construction.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Daisy.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Elder.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Erika.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Ethan.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Eusine.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Falkner.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Farfetch'd.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Giovanni.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/GoldRetro.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Green.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/GruntF.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/GruntM.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/GymGuy.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Hilbert.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Hilda.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/James-O.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/James.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Janine.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Jasmine.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Jessie-O.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Jessie.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Karen.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Koga.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/KrisRetro.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Kurt.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Lance.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Leaf.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/LittleGirl.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Looker.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Lorelei.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/LtSurge.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Lyra.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Mary.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/MasterRoshi.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Meowth-O.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Meowth.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Misty.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Morty.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/N.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Nate.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/nilllzz.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Oak.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/OldHatMan.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/OldLady.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Petrel.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Pidgey.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/PinkShirtGirl.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/PokeBall.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Pokemon/243_stone.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Pokemon/244_stone.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Pokemon/245_stone.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Proton.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Pryce.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Queen.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Rattata.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Red.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/RedMom.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Robot1.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Robot2.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Robot3.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/rock.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Rosa.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Sabrina.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Sage.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/seaweed.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Slender.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Slowpoke.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Steven.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Substitute.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Sudowoodo.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/TowerOwner.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Whitney.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/NPC/Will.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/Seasons/Flowers.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/Seasons/Grass.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/Seasons/PlantColoring.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/UI/TrainerCard/Back.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/UI/TrainerCard/Paperclip.png
+ContentPacks/GameBoyPack_Textures_Polished/Textures/UI/TrainerCard/Papers.png
+GameModes/Lost Silver/Content/Data/Maps/BellchimeTrail_Alive.dat
+GameModes/Lost Silver/Content/Data/Maps/DiedHe.dat
+GameModes/Lost Silver/Content/Data/Maps/Goldenrod_Alive.dat
+GameModes/Lost Silver/Content/Data/Maps/LostForest.dat
+GameModes/Lost Silver/Content/Data/Maps/Route34_Alive.dat
+GameModes/Lost Silver/Content/Data/Maps/RuinsOfAlph_Outside.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Goldenrod_Alive/Building_2x1y2z.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Goldenrod_Alive/Building_3x1y2z.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Goldenrod_Alive/Building_4x1y2z.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Goldenrod_Alive/Building_4x1y2z_DoorHole.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Goldenrod_Alive/Building_4x2y4z_DarkBrick.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Goldenrod_Alive/Building_4x2y4z_LightBrick.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Goldenrod_Alive/Building_4x2y4z_LightBrick_Gate.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Goldenrod_Alive/Building_4x2y4z_LightBrick_Windows.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Goldenrod_Alive/Building_4x2y4z_TrainGate.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Goldenrod_Alive/Building_6x2y4z_GameCorner.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Goldenrod_Alive/Building_6x2y4z_Gym.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Goldenrod_Alive/Building_6x2y4z_TrainStation.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Goldenrod_Alive/Building_6x6x8z_PokeMart.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Goldenrod_Alive/Fence_Vertical_Left_6z.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Goldenrod_Alive/Fence_Vertical_Right_6z.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Goldenrod_Alive/WaterRock.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Ladder_TinTower_Bottom.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Ladder_TinTower_Center.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Ladder_TinTower_Top.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Ladder_WelcomeBack.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/LargeRock_Alive.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/LargeRock_Dead.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/LargeRock_Purple.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Sign_LostForest.dat
+GameModes/Lost Silver/Content/Data/Maps/Structures/Stairs/LostForest.dat
+GameModes/Lost Silver/Content/Data/Maps/WelcomeBack.dat
+GameModes/Lost Silver/Content/Data/Scripts/DiedHe.dat
+GameModes/Lost Silver/Content/Data/Scripts/DiedHe_Hole.dat
+GameModes/Lost Silver/Content/Data/Scripts/Goldenrod_Alive.dat
+GameModes/Lost Silver/Content/Data/Scripts/Goldenrod_Alive_NPCs/Bugsy.dat
+GameModes/Lost Silver/Content/Data/Scripts/Goldenrod_Alive_NPCs/Chuck.dat
+GameModes/Lost Silver/Content/Data/Scripts/Goldenrod_Alive_NPCs/Clair.dat
+GameModes/Lost Silver/Content/Data/Scripts/Goldenrod_Alive_NPCs/Falkner.dat
+GameModes/Lost Silver/Content/Data/Scripts/Goldenrod_Alive_NPCs/Jasmine.dat
+GameModes/Lost Silver/Content/Data/Scripts/Goldenrod_Alive_NPCs/Lance.dat
+GameModes/Lost Silver/Content/Data/Scripts/Goldenrod_Alive_NPCs/Mom.dat
+GameModes/Lost Silver/Content/Data/Scripts/Goldenrod_Alive_NPCs/Morty.dat
+GameModes/Lost Silver/Content/Data/Scripts/Goldenrod_Alive_NPCs/ProfElm.dat
+GameModes/Lost Silver/Content/Data/Scripts/Goldenrod_Alive_NPCs/ProfOak.dat
+GameModes/Lost Silver/Content/Data/Scripts/Goldenrod_Alive_NPCs/Pryce.dat
+GameModes/Lost Silver/Content/Data/Scripts/Goldenrod_Alive_NPCs/Whitney.dat
+GameModes/Lost Silver/Content/Data/Scripts/LostForest/LostForest_MapScript.dat
+GameModes/Lost Silver/Content/Data/Scripts/LostForest/LostForest_Shrine.dat
+GameModes/Lost Silver/Content/Data/Scripts/LostForest/LostForest_Sign_Celebi.dat
+GameModes/Lost Silver/Content/Data/Scripts/LostForest/LostForest_Sign_ItemsOnTheGround.dat
+GameModes/Lost Silver/Content/Data/Scripts/LostForest/LostForest_Sign_NoWayOut.dat
+GameModes/Lost Silver/Content/Data/Scripts/LostForest/LostForest_Sign_WhereWillYouGo.dat
+GameModes/Lost Silver/Content/Data/Scripts/RedTower_PillarInteract.dat
+GameModes/Lost Silver/Content/Pokemon/Data/998.dat
+GameModes/Lost Silver/Content/Pokemon/Data/999.dat
+GameModes/Lost Silver/Content/Pokemon/Overworld/Normal/998.png
+GameModes/Lost Silver/Content/Pokemon/Overworld/Normal/999.png
+GameModes/Lost Silver/Content/Pokemon/Overworld/Shiny/998.png
+GameModes/Lost Silver/Content/Pokemon/Overworld/Shiny/999.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/998.png
+GameModes/Lost Silver/Content/Pokemon/Sprites/999.png
+GameModes/Lost Silver/Content/SkyDomeResource/Clouds_Morning.png
+GameModes/Lost Silver/Content/SkyDomeResource/Clouds_Night.png
+GameModes/Lost Silver/Content/SkyDomeResource/Sky_Morning.png
+GameModes/Lost Silver/Content/SkyDomeResource/Sky_Night.png
+GameModes/Lost Silver/Content/Songs/Goldenrod_Alive.ogg
+GameModes/Lost Silver/Content/Songs/LostForest.ogg
+GameModes/Lost Silver/Content/Songs/MtSilver_Slow.ogg
+GameModes/Lost Silver/Content/Songs/MtSilver_Slower.ogg
+GameModes/Lost Silver/Content/Songs/RedBattle.ogg
+GameModes/Lost Silver/Content/Songs/RedBattle_Intro.ogg
+GameModes/Lost Silver/Content/Songs/RuinsOfAlph_Inside.ogg
+GameModes/Lost Silver/Content/Songs/RuinsOfAlph_Outside.ogg
+GameModes/Lost Silver/Content/Sounds/Celebi_Louder.wav
+GameModes/Lost Silver/Content/Sounds/Celebi_Loudest.wav
+GameModes/Lost Silver/Content/Sounds/Cries/998.wav
+GameModes/Lost Silver/Content/Sounds/Cries/999.wav
+GameModes/Lost Silver/Content/Sounds/Typhlosion_Dead.wav
+GameModes/Lost Silver/Content/Sounds/Typhlosion_Half.wav
+GameModes/Lost Silver/Content/Textures/Flowers_Night.png
+GameModes/Lost Silver/Content/Textures/GoldDrawing.png
+GameModes/Lost Silver/Content/Textures/Goldenrod_Alive.png
+GameModes/Lost Silver/Content/Textures/Item.png
+GameModes/Lost Silver/Content/Textures/LostAlph.png
+GameModes/Lost Silver/Content/Textures/LostForest_Glitch_1x1.png
+GameModes/Lost Silver/Content/Textures/LostForest_Glitch_2x2.png
+GameModes/Lost Silver/Content/Textures/LostForest_Main.png
+GameModes/Lost Silver/Content/Textures/LostForest_old.png
+GameModes/Lost Silver/Content/Textures/NPC/BattleGirl.png
+GameModes/Lost Silver/Content/Textures/NPC/BlackBelt.png
+GameModes/Lost Silver/Content/Textures/NPC/BugManiac.png
+GameModes/Lost Silver/Content/Textures/NPC/ChampionLance_NoEyes.png
+GameModes/Lost Silver/Content/Textures/NPC/ChampionLance_Regular.png
+GameModes/Lost Silver/Content/Textures/NPC/Clerk.png
+GameModes/Lost Silver/Content/Textures/NPC/CoolDude.png
+GameModes/Lost Silver/Content/Textures/NPC/FatGuy.png
+GameModes/Lost Silver/Content/Textures/NPC/GameBoyKid.png
+GameModes/Lost Silver/Content/Textures/NPC/GateKeeper.png
+GameModes/Lost Silver/Content/Textures/NPC/Gentleman.png
+GameModes/Lost Silver/Content/Textures/NPC/Gold_Backwards_Glitch.png
+GameModes/Lost Silver/Content/Textures/NPC/Gold_DiedHe.png
+GameModes/Lost Silver/Content/Textures/NPC/GymGuy.png
+GameModes/Lost Silver/Content/Textures/NPC/Kurt.png
+GameModes/Lost Silver/Content/Textures/NPC/Lady.png
+GameModes/Lost Silver/Content/Textures/NPC/LeaderBugsy_NoEyes.png
+GameModes/Lost Silver/Content/Textures/NPC/LeaderBugsy_Regular.png
+GameModes/Lost Silver/Content/Textures/NPC/LeaderChuck_NoEyes.png
+GameModes/Lost Silver/Content/Textures/NPC/LeaderChuck_Regular.png
+GameModes/Lost Silver/Content/Textures/NPC/LeaderClair_NoEyes.png
+GameModes/Lost Silver/Content/Textures/NPC/LeaderClair_Regular.png
+GameModes/Lost Silver/Content/Textures/NPC/LeaderFalkner_NoEyes.png
+GameModes/Lost Silver/Content/Textures/NPC/LeaderFalkner_Regular.png
+GameModes/Lost Silver/Content/Textures/NPC/LeaderJasmine_NoEyes.png
+GameModes/Lost Silver/Content/Textures/NPC/LeaderJasmine_Regular.png
+GameModes/Lost Silver/Content/Textures/NPC/LeaderMorty_NoEyes.png
+GameModes/Lost Silver/Content/Textures/NPC/LeaderMorty_Regular.png
+GameModes/Lost Silver/Content/Textures/NPC/LeaderPryce_NoEyes.png
+GameModes/Lost Silver/Content/Textures/NPC/LeaderPryce_Regular.png
+GameModes/Lost Silver/Content/Textures/NPC/LeaderWhitney_NoEyes.png
+GameModes/Lost Silver/Content/Textures/NPC/LeaderWhitney_Regular.png
+GameModes/Lost Silver/Content/Textures/NPC/LittleBoy.png
+GameModes/Lost Silver/Content/Textures/NPC/Mom_NoEyes.png
+GameModes/Lost Silver/Content/Textures/NPC/Mom_Regular.png
+GameModes/Lost Silver/Content/Textures/NPC/NurseJoy.png
+GameModes/Lost Silver/Content/Textures/NPC/OldLady.png
+GameModes/Lost Silver/Content/Textures/NPC/OldMan.png
+GameModes/Lost Silver/Content/Textures/NPC/PokeFan_Female.png
+GameModes/Lost Silver/Content/Textures/NPC/PokeFan_Male.png
+GameModes/Lost Silver/Content/Textures/NPC/PokeManiac.png
+GameModes/Lost Silver/Content/Textures/NPC/ProfessorElm_NoEyes.png
+GameModes/Lost Silver/Content/Textures/NPC/ProfessorElm_Regular.png
+GameModes/Lost Silver/Content/Textures/NPC/ProfessorOak_NoEyes.png
+GameModes/Lost Silver/Content/Textures/NPC/ProfessorOak_Regular.png
+GameModes/Lost Silver/Content/Textures/NPC/RichBoy.png
+GameModes/Lost Silver/Content/Textures/NPC/Sage.png
+GameModes/Lost Silver/Content/Textures/NPC/SchoolBoy.png
+GameModes/Lost Silver/Content/Textures/NPC/Scientist_Regular.png
+GameModes/Lost Silver/Content/Textures/NPC/Scientist_White.png
+GameModes/Lost Silver/Content/Textures/Routes_Alive.png
+GameModes/Lost Silver/Content/Textures/RuinsOfAlph/Puzzle_L.png
+GameModes/Lost Silver/Content/Textures/RuinsOfAlph/Puzzle_O.png
+GameModes/Lost Silver/Content/Textures/RuinsOfAlph/Puzzle_S.png
+GameModes/Lost Silver/Content/Textures/RuinsOfAlph/Puzzle_T.png
+GameModes/Lost Silver/Content/Textures/RuinsOfAlph/WallText_Dying.png
+GameModes/Lost Silver/Content/Textures/RuinsOfAlph/WallText_HeDied.png
+GameModes/Lost Silver/Content/Textures/RuinsOfAlph/WallText_Leave.png
+GameModes/Lost Silver/Content/Textures/RuinsOfAlph/WallText_NoMore.png
+GameModes/Lost Silver/Content/Textures/Unown/A.png
+GameModes/Lost Silver/Content/Textures/Unown/D.png
+GameModes/Lost Silver/Content/Textures/Unown/E.png
+GameModes/Lost Silver/Content/Textures/Unown/H.png
+GameModes/Lost Silver/Content/Textures/Unown/I.png
+GameModes/Lost Silver/Content/Textures/Unown/K.png
+GameModes/Lost Silver/Content/Textures/Unown/O.png
+GameModes/Lost Silver/Content/Textures/Unown/R.png
+GameModes/Lost Silver/Content/Textures/Unown/U.png
+GameModes/Lost Silver/Content/Textures/Unown/W.png
+GameModes/Lost Silver/Content/Textures/Unown/Y.png
+GameModes/Lost Silver/GoldDrawing.png
+GameModes/PolishedKolben/Content/Data/maps/structures/frontier/facilities/factory.dat
+GameModes/PolishedKolben/Content/Data/maps/structures/frontier/facilities/pike.dat
+GameModes/PolishedKolben/Content/Data/maps/structures/frontier/facilities/tower.dat
+GameModes/PolishedKolben/Content/Data/maps/structures/Ladders/Ladder_Cave_Bottom.dat
+GameModes/PolishedKolben/Content/Data/maps/structures/Ladders/Ladder_Inside_Bottom.dat
+GameModes/PolishedKolben/Content/Data/maps/structures/Ladders/Ladder_Inside_Center.dat
+GameModes/PolishedKolben/Content/Data/maps/structures/Ladders/Ladder_Outside_Bottom.dat
+GameModes/PolishedKolben/Content/Data/maps/structures/Ladders/Ladder_Outside_Center.dat
+GameModes/PolishedKolben/Content/Data/maps/structures/SeaPlane.dat
+GameModes/PolishedKolben/Content/Data/maps/structures/SproutTower_Base.dat
+GameModes/PolishedKolben/Content/Models/BattlePike/BattlePike.xnb
+GameModes/PolishedKolben/Content/Models/BattlePike/BattlePike_0.xnb
+GameModes/PolishedKolben/Content/Models/SeaPlane/SeaPlane.xnb
+GameModes/PolishedKolben/Content/Models/SeaPlane/SeaPlane_0.xnb
+GameModes/PolishedKolben/Content/Models/SeaPlane/SeaPlane_1.xnb
+GameModes/PolishedKolben/Content/Models/SeaPlane/SeaPlane_Propeller.xnb
+GameModes/PolishedKolben/Content/Textures/Cities/Cherrygrove_old.png
+GameModes/PolishedKolben/Content/Textures/Cities/Violet.png
+GameModes/PolishedKolben/Content/Textures/Cities/Violet_old.png
+Save/Lost_Test/Apricorns.dat
+Save/Lost_Test/Berries.dat
+Save/Lost_Test/Box.dat
+Save/Lost_Test/Daycare.dat
+Save/Lost_Test/HallOfFame.dat
+Save/Lost_Test/ItemData.dat
+Save/Lost_Test/Items.dat
+Save/Lost_Test/NPC.dat
+Save/Lost_Test/Options.dat
+Save/Lost_Test/Party.dat
+Save/Lost_Test/Player.dat
+Save/Lost_Test/Pokedex.dat
+Save/Lost_Test/Register.dat
+Save/Lost_Test/RoamingPokemon.dat
+Save/Lost_Test/SecretBase.dat
+Save/Lost_Test/Statistics.dat
+screenshots/2022-11-15_18.31.22.png
+screenshots/2022-11-15_18.36.16.png
+screenshots/2022-11-17_15.29.43.png
+screenshots/2022-11-17_20.16.50.png
+screenshots/2022-11-17_20.20.16.png
+screenshots/2022-11-18_20.00.57.png
+screenshots/2022-12-02_14.37.39.png
+screenshots/2022-12-18_20.40.30.png
+screenshots/2022-12-18_20.52.51.png
+screenshots/2022-12-18_20.55.19.png
+screenshots/2022-12-18_21.09.20.png
