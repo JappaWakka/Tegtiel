@@ -17,7 +17,7 @@ Trees:
 	{"EntityField"{ENT[{"SeasonTexture"{str[PlantColoring]}}{"Size"{intArr[20,6]}}{"Steps"{sngArr[2,2]}}{"EntityID"{str[WallBill]}}{"Scale"{sngArr[2,2,2]}}{"Position"{sngArr[2.5,5.435,5.5]}}{"TexturePath"{str[Outside]}}{"Textures"{recArr[[32,16,32,32]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[3]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 
 Slopes:
-	Slope Sides
+	Slope Sides (Direction = Where the lowest point is)
 		South
 			{"EntityField"{ENT[{"Size"{intArr[15,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[4,6,1]}}{"TexturePath"{str[Outside]}}{"Textures"{recArr[[80,32,16,16]]}}{"TextureIndex"{intArr[-1,-1,-1,-1,0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[2]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[2]}}]}}
 			{"EntityField"{ENT[{"Size"{intArr[18,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[3,5,4]}}{"TexturePath"{str[Outside]}}{"Textures"{recArr[[80,32,16,16]]}}{"TextureIndex"{intArr[-1,-1,-1,-1,0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[2]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[2]}}]}}
@@ -29,11 +29,11 @@ Slopes:
 			{"EntityField"{ENT[{"Size"{intArr[1,4]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[21,5,0]}}{"TexturePath"{str[Outside]}}{"Textures"{recArr[[80,32,16,16]]}}{"TextureIndex"{intArr[-1,-1,-1,-1,0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[2]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[3]}}]}}
 			{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[19,6,0]}}{"TexturePath"{str[Outside]}}{"Textures"{recArr[[80,32,16,16]]}}{"TextureIndex"{intArr[-1,-1,-1,-1,0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[2]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[3]}}]}}
 			
-	Counter-Clockwise Corners
-		NorthEast
+	Counter-Clockwise Corners (Direction = Where the lowest point is)
+		SouthWest
 			{"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Position"{sngArr[2,5,4]}}{"TexturePath"{str[Outside]}}{"Textures"{recArr[[80,32,16,16]]}}{"TextureIndex"{intArr[-1,-1,0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[5]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[2]}}]}}
 			{"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Position"{sngArr[3,6,1]}}{"TexturePath"{str[Outside]}}{"Textures"{recArr[[80,32,16,16]]}}{"TextureIndex"{intArr[-1,-1,0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[5]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[2]}}]}}
-		NorthWest
+		SouthEast
 			{"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Position"{sngArr[21,5,4]}}{"TexturePath"{str[Outside]}}{"Textures"{recArr[[80,32,16,16]]}}{"TextureIndex"{intArr[-1,-1,0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[5]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[3]}}]}}
 			{"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Position"{sngArr[19,6,1]}}{"TexturePath"{str[Outside]}}{"Textures"{recArr[[80,32,16,16]]}}{"TextureIndex"{intArr[-1,-1,0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[5]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[3]}}]}}
 	
